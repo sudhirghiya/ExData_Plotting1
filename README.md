@@ -112,3 +112,13 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+## Notes to Run the Code.
+1. Data Download, unzip and all code in "getdata.r"
+2. plot1.r contains code to generate plot1 and save to png file.
+3. plot2.r contains code to generate plot2 and save to png file.
+4. plot3.r contains code to generate plot3 and save to png file.
+5. plot4.r contains code to generate plot4 and save to png file. 
+ 
+Also note: all plot*.r sources the getdata.r individually.
+
+
